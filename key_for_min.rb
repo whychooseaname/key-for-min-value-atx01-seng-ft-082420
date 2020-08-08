@@ -15,8 +15,6 @@ def key_for_min_value(name_hash)
     end
     y
   end
-end
-end
 #hash{key: value}
 #find smallest value
 # x=hash[0][0] value
@@ -24,4 +22,3 @@ end
 #then x= hash [0][1]
 #return [0]
 
- 
