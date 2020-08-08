@@ -12,7 +12,7 @@ def key_for_min_value(name_hash)
         y=key 
       end
     end
-    puts y
+    return y
   end
 #hash{key: value}
 #find smallest value
